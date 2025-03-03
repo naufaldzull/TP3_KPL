@@ -29,6 +29,10 @@ namespace TP_3_
             {
                 label1.Text = "Halo " + text;
             }
+            else
+            {
+                label1.Text = "Silahkan Isi dulu namanya";
+            }
             
         }
         
